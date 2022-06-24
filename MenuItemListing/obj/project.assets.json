@@ -612,19 +612,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2085786\\.nuget\\packages\\": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+      "projectUniqueName": "D:\\study material\\cloud practice (1) (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
       "projectName": "MenuItemListing",
-      "projectPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
-      "packagesPath": "C:\\Users\\2085786\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\obj\\",
+      "projectPath": "D:\\study material\\cloud practice (1) (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\study material\\cloud practice (1) (1)\\MenuItemListing\\MenuItemListing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\2085786\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -669,6 +669,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.24, 3.1.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -677,7 +695,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
